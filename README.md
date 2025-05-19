@@ -31,4 +31,4 @@ Rejoignez notre serveur Discord pour discuter, poser vos questions et rester à 
 
 Merci de votre intérêt pour **aShield** ! 🙏
 
-Protect your discord server with aShield.
+### Protect your discord server with aShield.
