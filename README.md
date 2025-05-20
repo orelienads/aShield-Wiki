@@ -1,34 +1,34 @@
 # aShield Wiki 🔰
 
-Bienvenue sur le wiki officiel de **aShield**, votre ressource complète pour tout savoir sur le projet.
+Welcome to the official **aShield** wiki, your comprehensive resource to learn everything about the project.
 
-## Présentation 🛡️
+## Overview 🛡️
 
-**aShield** est un bot Discord de sécurité et de modération, conçu pour assurer la protection des serveurs communautaires.  
-Il est développé en Python avec la bibliothèque `discord.py`, et intègre un système de permissions, d’alertes et de surveillance automatisée.
+**aShield** is a Discord security and moderation bot designed to protect community servers.  
+It is developed in Python using the `discord.py` library, featuring a permission system, alerts, and automated monitoring.
 
-## Contenu 📚
+## Contents 📚
 
-- Documentation détaillée  
-- Guides d'installation et de configuration  
-- Tutoriels d'utilisation  
-- FAQ et dépannage  
+- Detailed documentation  
+- Installation and setup guides  
+- User tutorials  
+- FAQ and troubleshooting  
 
 ## Contribution 🤝
 
-Votre aide est la bienvenue ! N'hésitez pas à contribuer au wiki en proposant des modifications ou en ajoutant de nouveaux contenus. Rendez-vous sur le Discord !
+Your help is welcome! Feel free to contribute to the wiki by suggesting edits or adding new content. Join us on Discord!
 
 ## Contact 📩
 
-Pour toute question ou suggestion, veuillez ouvrir un ticket sur le Discord support de aShield.
+For any questions or suggestions, please open a ticket on the aShield support Discord.
 
-## Communauté 💬
+## Community 💬
 
-Rejoignez notre serveur Discord pour discuter, poser vos questions et rester à jour :  
+Join our Discord server to chat, ask questions, and stay up to date:  
 [aShield Support Discord](https://discord.gg/mf5VH4eMc7)
 
 ---
 
-Merci de votre intérêt pour **aShield** ! 🙏
+Thank you for your interest in **aShield**! 🙏
 
-### Protect your discord server with aShield.
+### Protect your Discord server with aShield.
